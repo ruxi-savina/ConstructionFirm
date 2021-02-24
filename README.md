@@ -9,7 +9,3 @@ the products for a better management. The application should to do these operati
 - Filter the products by their type. The type of the product is given by the first digit in its code
 ( 1 = DIY, 2 = thermic, 3 = electric, 4 = sanitary, from 5 to 9 = otherProducts)
 The products will be stored using their codes.
-Justification:
-The ADT bag is a good choice for this application, because the order of the products does not matter.
-It is also easier to keep track of the frequency of every product, and also the total number of products.
-The bag is usually used for storing.
