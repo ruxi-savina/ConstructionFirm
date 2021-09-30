@@ -9,3 +9,4 @@ the products for a better management. The application should to do these operati
 - Filter the products by their type. The type of the product is given by the first digit in its code
 ( 1 = DIY, 2 = thermic, 3 = electric, 4 = sanitary, from 5 to 9 = otherProducts)
 The products will be stored using their codes.
+[Documentation.pdf](https://github.com/SavinaRuxandra/ConstructionFirm/files/7258925/Documentation.pdf)
